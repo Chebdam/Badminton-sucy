@@ -1,0 +1,26 @@
+.footer {
+  margin-top: 100px;
+  padding-top: 5px;
+  border:solid;
+  border-width: 2px;
+  border-color: grey;
+  border-right: none;
+  border-left: none;
+  border-bottom: none;
+  display: flex;
+}
+
+.footer h2  {
+ font-weight: normal;
+}
+
+.footer li {
+list-style: none;
+display:inline;
+}
+
+.footer i {
+ font-size: 30px;
+ padding-left: 20px;
+
+}

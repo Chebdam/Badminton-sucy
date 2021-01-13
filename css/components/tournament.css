@@ -1,0 +1,17 @@
+.tournament {
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.tournament h2 {
+
+  margin-bottom: 20px;
+}
+
+.tournament p {
+
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: justify;
+}
